@@ -1,0 +1,19 @@
+body{
+padding: 10px;
+
+
+}
+table, th,td{
+
+
+	border: 1px solid blue;   /*1 px is the original size*/
+	border-collapse: collapse; /*para di double yung border*/
+	/*border-radius: 10px;	for rounded corners*/
+	/*border-style:dotted;  dotted*/
+	border-color: lightblue;  /*border color*/
+	text-align: center;
+
+}
+th,td{
+	background-color:pink;
+}
